@@ -1,3 +1,15 @@
 {
-  "_base": "https://raw.githubusercontent.com/Chocolatninja/ShareSample/MusicTech/"
+  "_base": "https://raw.githubusercontent.com/Chocolatninja/ShareSample/MusicTech/",
+  "FX Collection": [
+    "FX Collection/Cymatics - FX Cry - D Min.wav",
+    "FX Collection/Cymatics - FX Ivory - C.wav",
+    "FX Collection/Cymatics - FX Moto.wav",
+    "FX Collection/Cymatics - FX Orchestra - B Min.wav",
+    "FX Collection/Cymatics - FX Shot - 140 BPM.wav",
+    "FX Collection/Cymatics - FX Siren - 74 BPM.wav",
+    "FX Collection/Cymatics - FX Stringslide - C#.wav",
+    "FX Collection/Cymatics - FX Verb Key - C.wav",
+    "FX Collection/Cymatics - FX Vogue - A#.wav",
+    "FX Collection/Cymatics - FX Whistle.wav"
+  ]
 }
