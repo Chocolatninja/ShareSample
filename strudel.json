@@ -1,3 +1,15 @@
 {
-  "_base": "https://raw.githubusercontent.com/smaudd/strudel-samplepack-template/main/"
+  "_base": "https://raw.githubusercontent.com/Chocolatninja/ShareSample/MusicTech/",
+  "Cymatics": [
+    "Cymatics/Cry.wav",
+    "Cymatics/Cymatics - FX Ivory - C.wav",
+    "Cymatics/Cymatics - FX Moto.wav",
+    "Cymatics/Cymatics - FX Orchestra - B Min.wav",
+    "Cymatics/Cymatics - FX Shot - 140 BPM.wav",
+    "Cymatics/Cymatics - FX Siren - 74 BPM.wav",
+    "Cymatics/Cymatics - FX Stringslide - C#.wav",
+    "Cymatics/Cymatics - FX Verb Key - C.wav",
+    "Cymatics/Cymatics - FX Vogue - A#.wav",
+    "Cymatics/Cymatics - FX Whistle.wav"
+  ]
 }
