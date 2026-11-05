@@ -1,12 +1,4 @@
 {
-  "10808": [
-    "10808/CB.WAV",
-    "10808/CH.WAV",
-    "10808/CL.WAV",
-    "10808/CP.WAV",
-    "10808/MA.WAV",
-    "10808/RS.WAV"
-  ],
   "_base": "https://raw.githubusercontent.com/Chocolatninja/ShareSample/main/",
   "Cymatics": [
     "Cymatics/Cry.wav",
