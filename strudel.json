@@ -21,6 +21,14 @@
     "chestnuts/chestnuts5.wav",
     "chestnuts/chestnuts6.wav"
   ],
+  "tim": [
+    "tim/CB.WAV",
+    "tim/CH.WAV",
+    "tim/CL.WAV",
+    "tim/CP.WAV",
+    "tim/MA.WAV",
+    "tim/RS.WAV"
+  ],
   "wonderfulChristmastime": [
     "wonderfulChristmastime/jingle.wav",
     "wonderfulChristmastime/wonderfulChristmastime-001.wav",
