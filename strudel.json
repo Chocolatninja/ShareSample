@@ -21,6 +21,9 @@
     "chestnuts/chestnuts5.wav",
     "chestnuts/chestnuts6.wav"
   ],
+  "dontask": [
+    "dontask/dont-ask-the-robot.wav"
+  ],
   "wonderfulChristmastime": [
     "wonderfulChristmastime/jingle.wav",
     "wonderfulChristmastime/wonderfulChristmastime-001.wav",
